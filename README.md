@@ -22,8 +22,8 @@
 
 Superintent BOT is an automated tool designed to quest completion across multiple accounts. It provides seamless offers robust proxy support for enhanced security and reliability.
 
-**🔗 Get Started:** [Register on Superintent](https://mission.superintent.ai/?referralCode=PZQB8wXy0k)  
-**🎁 Use My Code:** `PZQB8wXy0k`
+**🔗 Get Started:** [Register on Superintent](https://mission.superintent.ai/
+
 
 > **Important:** Connect new evm wallet.
 
