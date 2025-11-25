@@ -25,6 +25,7 @@ Superintent BOT is an automated tool designed to quest completion across multipl
 **🔗 Get Started:** [Register on Superintent](https://mission.superintent.ai/
 
 
+
 > **Important:** Connect new evm wallet.
 
 ## ✨ Features
